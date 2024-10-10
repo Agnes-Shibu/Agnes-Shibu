@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnes-shibu&label=Profile%20views&color=0e75b6&style=flat" alt="agnes-shibu" /> </p>
 
 - 📫 How to reach me **agnesshibu10@gmail.com**
-
+- 📫 or via **https://bento.me/agnesshibu**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/agnes-shibu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agnes-shibu" height="30" width="40" /></a>
